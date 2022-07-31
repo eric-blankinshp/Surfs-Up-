@@ -14,11 +14,13 @@ An investor wants to learn more about the weather before committing to build a S
 Results:
 
 June Statistics for Temperature
+
 ![June Summary Statistics](https://user-images.githubusercontent.com/103863575/182008211-438152c7-71b9-4def-b4c9-cfd9faefe00e.png)
 
 
 
 
 December Statistics for Temperature
+
 ![December Summary Statistics](https://user-images.githubusercontent.com/103863575/182008217-920b6919-0bc7-47f2-a5d0-2bc15837880b.png)
 
